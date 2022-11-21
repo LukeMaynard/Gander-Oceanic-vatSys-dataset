@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Radars>
+  <Radar Name="Gander" Type="ADSB" Elevation="3409" MaxRange="250">
+    <Lat>-48.961130</Lat>
+    <Long>-54.616620</Long>
+  </Radar>
+</Radars>

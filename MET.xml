@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<MET>
+  <GRIB url="http://sawbe.com/GRIB/" fileName="world.grib2" />
+  <ProductTypes>
+    <TAF url="https://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=tafs&amp;requestType=retrieve&amp;format=xml&amp;stationString=%ICAO&amp;hoursBeforeNow=0&amp;timeType=valid&amp;mostRecent=true" xmlDataTag="raw_text" mostRecent="true"/>
+  </ProductTypes>
+  <Browsers>
+    <NATTrack url="https://nattrak.vatsim.net/" />
+    <WXRadars url="http://www.bom.gov.au/australia/radar/" />
+    <BOM url="http://www.bom.gov.au/aviation/" />
+    <NAIPS url="https://www.airservicesaustralia.com/naips/Account/LogOn" />
+    <AIP url="https://www.airservicesaustralia.com/aip/aip.asp" />
+    <ATCAssist url="http://atc.vatpac.org" />
+    <TFMS url="https://maestro.vatpac.org" />
+  </Browsers>
+</MET>

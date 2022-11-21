@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Sectors>
+  <Sector FullName="EGGX_A_FSS" Frequency="131.450" Callsign="EGGX_FSS" Name="2000" />
+  <Sector FullName="EGGX_B_FSS" Frequency="131.550" Callsign="EGGX_FSS" Name="2000" />
+  <Sector FullName="EGGX_C_FSS" Frequency="131.650" Callsign="EGGX_FSS" Name="2000" />
+  <Sector FullName="EGGX_D_FSS" Frequency="131.750" Callsign="EGGX_FSS" Name="2000" />
+  <Sector FullName="EGGX_F_FSS" Frequency="131.850" Callsign="EGGX_FSS" Name="2000" />
+  <Sector FullName="EGGX_CTR" Frequency="131.800" Callsign="CTR_2000" Name="N048.00.00.000" />
+  <Sector FullName="EGGX_A_CTR" Frequency="131.450" Callsign="EGGX_CTR" Name="2000" />
+  <Sector FullName="EGGX_B_CTR" Frequency="131.550" Callsign="EGGX_CTR" Name="2000" />
+  <Sector FullName="EGGX_C_CTR" Frequency="131.650" Callsign="EGGX_CTR" Name="2000" />
+  <Sector FullName="EGGX_D_CTR" Frequency="131.750" Callsign="EGGX_CTR" Name="2000" />
+  <Sector FullName="EGGX_F_CTR" Frequency="131.850" Callsign="EGGX_CTR" Name="2000" />
+  <Sector FullName="EGGX_DEL" Frequency="127.650" Callsign="DEL_2000" Name="N055.00.00.000" />
+  <Sector FullName="EGGX_A_DEL" Frequency="127.900" Callsign="EGGX_DEL" Name="2000" />
+  <Sector FullName="EGGX_B_DEL" Frequency="123.950" Callsign="EGGX_DEL" Name="2000" />
+  <Sector FullName="EGGX_C_DEL" Frequency="124.170" Callsign="EGGX_DEL" Name="2000" />
+  <Sector FullName="EGGX_D_DEL" Frequency="126.370" Callsign="EGGX_DEL" Name="2000" />
+  <Sector FullName="EGGX_F_DEL" Frequency="128.370" Callsign="EGGX_DEL" Name="2000" />
+  <Sector FullName="CZQO_CTR" Frequency="131.700" Callsign="CTR_2000" Name="N059.30.00.000" />
+  <Sector FullName="CZQO_A_CTR" Frequency="131.570" Callsign="CZQO_CTR" Name="2000" />
+  <Sector FullName="CZQO_B_CTR" Frequency="131.670" Callsign="CZQO_CTR" Name="2000" />
+  <Sector FullName="CZQO_C_CTR" Frequency="131.770" Callsign="CZQO_CTR" Name="2000" />
+  <Sector FullName="CZQO_D_CTR" Frequency="131.870" Callsign="CZQO_CTR" Name="2000" />
+  <Sector FullName="CZQO_F_CTR" Frequency="131.970" Callsign="CZQO_CTR" Name="2000" />
+  <Sector FullName="CZQO_DEL" Frequency="128.700" Callsign="DEL_2000" Name="N059.30.00.000" />
+  <Sector FullName="CZQO_A_DEL" Frequency="119.420" Callsign="CZQO_DEL" Name="2000" />
+  <Sector FullName="CZQO_B_DEL" Frequency="135.050" Callsign="CZQO_DEL" Name="2000" />
+  <Sector FullName="CZQO_C_DEL" Frequency="128.450" Callsign="CZQO_DEL" Name="2000" />
+  <Sector FullName="CZQO_D_DEL" Frequency="135.450" Callsign="CZQO_DEL" Name="2000" />
+  <Sector FullName="CZQO_F_DEL" Frequency="134.200" Callsign="CZQO_DEL" Name="2000" />
+</Sectors>

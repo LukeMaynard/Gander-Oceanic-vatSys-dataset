@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Sectors>
+  <Sector FullName="Gander Alpha" Frequency: "131.700" Callsign="CZQO_A_FSS" Name="ZQOA">
+    <Volumes>CZQO Main</Volumes>
+  </Sector>
+    <Sector FullName="Coral Oceanic" Frequency="133.150" Callsign="BN-COL_FSS" Name="COL">
+	<Volumes>CZQO A</Volumes>
+  </Sector>
+</Sectors>

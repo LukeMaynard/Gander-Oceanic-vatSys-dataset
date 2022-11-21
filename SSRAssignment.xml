@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<SSRAssignment>
+  <Bin>
+    <Codes Start="N052.00.00.000" End="W030.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N052.00.00.000" End="W030.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N052.00.00.000" End="W030.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N052.00.00.000" End="W030.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N052.00.00.000" End="W030.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="W010.00.00.000" End="N048.00.00.000">
+      <Rule Sector="N048.00.00.000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N049.00.00.000" End="W015.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N049.00.00.000" End="W015.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N049.00.00.000" End="W015.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N049.00.00.000" End="W015.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N049.00.00.000" End="W015.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="W003.00.00.000" End="N051.00.00.000">
+      <Rule Sector="N055.00.00.000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N055.00.00.000" End="W003.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N055.00.00.000" End="W003.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N055.00.00.000" End="W003.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N055.00.00.000" End="W003.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N055.00.00.000" End="W003.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="W058.00.00.000" End="N048.30.00.000">
+      <Rule Sector="N059.30.00.000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N059.30.00.000" End="W058.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N059.30.00.000" End="W058.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N059.30.00.000" End="W058.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N059.30.00.000" End="W058.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N059.30.00.000" End="W058.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="W058.00.00.000" End="N048.30.00.000">
+      <Rule Sector="N059.30.00.000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N059.30.00.000" End="W058.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N059.30.00.000" End="W058.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N059.30.00.000" End="W058.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N059.30.00.000" End="W058.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+  <Bin>
+    <Codes Start="N059.30.00.000" End="W058.00.00.000">
+      <Rule Sector="2000" />
+    </Codes>
+  </Bin>
+</SSRAssignment>
