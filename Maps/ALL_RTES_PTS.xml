@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Maps>
   <Map Type="System" Name="TANGO_RTS" Priority="1" Center="+54.000-30.000">
-	<Line Type="Solid" Name="T290">ADVAT.GELPO</Line>
-	<Line Type="Solid" Name="T9">LASNO.BEGAS</Line>
-	<Line Type="Solid" Name="T213">BERUX.TAMEL</Line>
-	<Line Type="Solid" Name="T16">OMOKO.GONAN.EKROL.NAVIX.IDREL.EXODO.OTZIL</Line>
-	<Line Type="Solid" Name="T13">IDREL.RUPEP.MANOX.LUPOV.NILAV.OMOKO</Line>
+	<Line Width="0.6" Name="T290">ADVAT.T290.GELPO</Line>
+	<Line Width="0.6" Name="T9">LASNO.T9.BEGAS</Line>
+	<Line Width="0.6" Name="T213">BERUX.T213.TAMEL</Line>
+	<Line Width="0.6" Name="T16">OMOKO.T16.NAVIX</Line>
+	<Line Width="0.6" Name="T13">IDREL.T13.OMOKO</Line>
 	<Symbol Type="SolidSquare">
 		<Point>ADVANT</Point>
 		<Point>GELPO</Point>
@@ -26,11 +26,11 @@
 	</Symbol>
   </Map>
   <Map Type="System" Name="UNIFORM_RTS" Priority="1" Center="+54.000-30.000">
-	<Line Type="Solid" Name="UN480">REGHI.ETIKI</Line>
-	<Line Type="Solid" Name="UN734">UMOXA.UMLER</Line>
-	<Line Type="Solid" Name="UN470">SEPAL.LAPEX</Line>
-	<Line Type="Solid" Name="UN536">TIVLU.BUNAV</Line>
-	<Line Type="Solid" Name="UN460">RIVAK.SIVIR</Line>
+	<Line Width="0.6" Name="UN480">REGHI.UN480.ETIKI</Line>
+	<Line Width="0.6" Name="UN734">UMOXA.UN734.UMLER</Line>
+	<Line Width="0.6" Name="UN470">SEPAL.UN470.LAPEX</Line>
+	<Line Width="0.6" Name="UN536">TIVLU.UN536.BUNAV</Line>
+	<Line Width="0.6" Name="UN460">RIVAK.UN460.SIVIR</Line>
 	<Symbol Type="SolidSquare">
 		<Point>REGHI</Point>
 		<Point>ETIKI</Point>

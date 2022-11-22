@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Maps>
-	<Map Type="System2" Name="ALL_SECTORS" Priority="1">
+	<Map Type="System2" Name="ALL_SECTORS" Priority="0">
 		<Line Name="CZQO">
 +65.000000-060.000000/
 +64.000000-063.000000/
@@ -29,6 +29,15 @@
 +45.000000-013.000000/
 +45.000000-030.000000/
 +61.000000-030.000000/
+		</Line>
+	</Map>
+	<Map Type="System" Name="NEIGHBOURS" Priority="1">
+		<Line Name="NUUK">
+		+63.000000-039.500000/
++63.000000-055.500000/
++58.500000-050.000000/
++58.500000-043.500000/
++63.000000-039.500000/
 		</Line>
 	</Map>
 </Maps>
