@@ -1,10 +1,46 @@
 <?xml version="1.0"?>
 <Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Group Name="CZQO">
-	<Position Name="Gander Radio" Type="ASD" DefaultCenter="+54.000000-030.000000" DefaultRange="6500">
+	<Position Name="Gander" Type="ASD" DefaultCenter="+54.000000-030.000000" DefaultRange="6500">
 		<Sectors>  
 		 <Sector FullName="CZQO" Frequency="131.700" Callsign="CZQO_CTR" />
-		<Sectors>
+		</Sectors>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+	  <CFL QuickLevel="31000" />
+      <ArrivalLists />
+      <ControllerInfo>
+        <Line>Gander Radio | CPDLC available through text</Line>
+        <Line>Oceanic Report Tool - vats.im/czqo/pos-rep</Line>
+        <Line>Oceanic Clearance - nattrack.net</Line>
+      </ControllerInfo>
+    </Position>
+	
+	<Position Name="Gander Alpha" Type="ASD" DefaultCenter="+54.000000-030.000000" DefaultRange="6500">
+		<Sectors>  
+		 <Sector FullName="CZQO_A" Frequency="131.575" Callsign="CZQO_A_CTR" />
+		</Sectors>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+	  <CFL QuickLevel="31000" />
+      <ArrivalLists />
+      <ControllerInfo>
+        <Line>Gander Radio | CPDLC available through text</Line>
+        <Line>Oceanic Report Tool - vats.im/czqo/pos-rep</Line>
+        <Line>Oceanic Clearance - nattrack.net</Line>
+      </ControllerInfo>
+    </Position>	
+	
+	<Position Name="Gander Bravo" Type="ASD" DefaultCenter="+54.000000-030.000000" DefaultRange="6500">
+		<Sectors>  
+		 <Sector FullName="CZQO-B" Frequency="131.675" Callsign="CZQO_B_CTR" />
+		</Sectors>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
         <Window Type="State" State="Announced" Visible="true" />
@@ -19,10 +55,10 @@
       </ControllerInfo>
     </Position>
 	
-	<Position Name="Gander Alpha" Type="ASD" DefaultCenter="+54.000000-030.000000" DefaultRange="6500">
+		<Position Name="Gander Charlie" Type="ASD" DefaultCenter="+54.000000-030.000000" DefaultRange="6500">
 		<Sectors>  
-		 <Sector FullName="ZQOA" Frequency="131.570" Callsign="CZQO_A_CTR" />
-		<Sectors>
+		 <Sector FullName="CZQO-C" Frequency="131.775" Callsign="CZQO_C_CTR" />
+		</Sectors>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
         <Window Type="State" State="Announced" Visible="true" />
@@ -32,15 +68,15 @@
       <ArrivalLists />
       <ControllerInfo>
         <Line>Gander Radio | CPDLC available through text</Line>
-        <Line>Oceanic Report Tool - vats.im/nz/oce</Line>
+        <Line>Oceanic Report Tool - vats.im/czqo/pos-rep</Line>
         <Line>Oceanic Clearance - nattrack.net</Line>
       </ControllerInfo>
-    </Position>	
+    </Position>
 	
-	<Position Name="Gander Bravo" Type="ASD" DefaultCenter="+54.000000-030.000000" DefaultRange="6500">
+		<Position Name="Gander Delta" Type="ASD" DefaultCenter="+54.000000-030.000000" DefaultRange="6500">
 		<Sectors>  
-		 <Sector FullName="ZQOB" Frequency="131.670" Callsign="CZQO_B_CTR" />
-		<Sectors>
+		 <Sector FullName="CZQO-D" Frequency="131.875" Callsign="CZQO_D_CTR" />
+		</Sectors>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
         <Window Type="State" State="Announced" Visible="true" />
@@ -50,7 +86,25 @@
       <ArrivalLists />
       <ControllerInfo>
         <Line>Gander Radio | CPDLC available through text</Line>
-        <Line>Oceanic Report Tool - vats.im/nz/oce</Line>
+        <Line>Oceanic Report Tool - vats.im/czqo/pos-rep</Line>
+        <Line>Oceanic Clearance - nattrack.net</Line>
+      </ControllerInfo>
+    </Position>
+	
+		<Position Name="Gander Foxtrot" Type="ASD" DefaultCenter="+54.000000-030.000000" DefaultRange="6500">
+		<Sectors>  
+		 <Sector FullName="CZQO-F" Frequency="131.975" Callsign="CZQO_F_CTR" />
+		</Sectors>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+	  <CFL QuickLevel="31000" />
+      <ArrivalLists />
+      <ControllerInfo>
+        <Line>Gander Radio | CPDLC available through text</Line>
+        <Line>Oceanic Report Tool - vats.im/czqo/pos-rep</Line>
         <Line>Oceanic Clearance - nattrack.net</Line>
       </ControllerInfo>
     </Position>
