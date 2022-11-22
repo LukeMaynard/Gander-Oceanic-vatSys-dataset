@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="TANGO_RTS" Priority="1" Center="+54.000-30.000">
+	<Line Type="Solid" Name="T290">ADVAT.GELPO</Line>
+	<Line Type="Solid" Name="T9">LASNO.BEGAS</Line>
+	<Line Type="Solid" Name="T213">BERUX.TAMEL</Line>
+	<Line Type="Solid" Name="T16">OMOKO.GONAN.EKROL.NAVIX.IDREL.EXODO.OTZIL</Line>
+	<Line Type="Solid" Name="T13">IDREL.RUPEP.MANOX.LUPOV.NILAV.OMOKO</Line>
+	<Symbol Type="SolidSquare">
+		<Point>ADVANT</Point>
+		<Point>GELPO</Point>
+		<Point>LASNO</Point>
+		<Point>BEGAS</Point>
+		<Point>BERUX</Point>
+		<Point>TAMEL</Point>
+		<Point>OMOKO</Point>
+		<Point>GONAN</Point>
+		<Point>EKROL</Point>
+		<Point>NAVIX</Point>
+		<Point>IDREL</Point>
+		<Point>EXODO</Point>
+		<Point>OTZIL</Point>
+		<Point>RUPEP</Point>
+		<Point>MANOX</Point>
+		<Point>NILAV</Point>
+	</Symbol>
+  </Map>
+  <Map Type="System" Name="UNIFORM_RTS" Priority="1" Center="+54.000-30.000">
+	<Line Type="Solid" Name="UN480">REGHI.ETIKI</Line>
+	<Line Type="Solid" Name="UN734">UMOXA.UMLER</Line>
+	<Line Type="Solid" Name="UN470">SEPAL.LAPEX</Line>
+	<Line Type="Solid" Name="UN536">TIVLU.BUNAV</Line>
+	<Line Type="Solid" Name="UN460">RIVAK.SIVIR</Line>
+	<Symbol Type="SolidSquare">
+		<Point>REGHI</Point>
+		<Point>ETIKI</Point>
+		<Point>UMOXA</Point>
+		<Point>UMLER</Point>
+		<Point>SEPAL</Point>
+		<Point>LAPEX</Point>
+		<Point>TIVLU</Point>
+		<Point>BUNAV</Point>
+		<Point>RIVAK</Point>
+		<Point>SIVIR</Point>
+	</Symbol>
+  </Map>
+<Map Type="System" Name="ALL_PTS" Priority="1" Center="+54.000-30.000">
+<Label>
+		<Point>ADVANT</Point>
+		<Point>GELPO</Point>
+		<Point>LASNO</Point>
+		<Point>BEGAS</Point>
+		<Point>BERUX</Point>
+		<Point>TAMEL</Point>
+		<Point>OMOKO</Point>
+		<Point>GONAN</Point>
+		<Point>EKROL</Point>
+		<Point>NAVIX</Point>
+		<Point>IDREL</Point>
+		<Point>EXODO</Point>
+		<Point>OTZIL</Point>
+		<Point>RUPEP</Point>
+		<Point>MANOX</Point>
+		<Point>NILAV</Point>
+		<Point>REGHI</Point>
+		<Point>ETIKI</Point>
+		<Point>UMOXA</Point>
+		<Point>UMLER</Point>
+		<Point>SEPAL</Point>
+		<Point>LAPEX</Point>
+		<Point>TIVLU</Point>
+		<Point>BUNAV</Point>
+		<Point>RIVAK</Point>
+		<Point>SIVIR</Point>
+</Label>
+</Map>
+</Maps>
