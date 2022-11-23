@@ -1,42 +1,45 @@
 <?xml version="1.0"?>
 <Sectors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Sector FullName="Bandox" Frequency="131.900" Callsign="NAT_FSS" Name="NAT">
+		<Volumes>CZQO Main,EGGX Main</Volumes>
+		<ResponsibleSectors>CZQO,CZQO-A, CZQO-B, CZQO-C, CZQO-D, CZQO-F, EGGX, EGGX-A, EGGX-B, EGGX-C, EGGX-D, EGGX-F</ResponsibleSectors>
+	</Sector>
 	<Sector FullName="Gander Radio" Frequency="131.700" Callsign="CZQO_CTR" Name="CZQO">
-		<Volumes>CZQO Main, CZQO A, CZQO B, CZQO C, CZQO D, CZQO F</Volumes>
+		<Volumes>CZQO Main</Volumes>
+		<ResponsibleSectors>CZQO-A,CZQO-B,CZQO-C,CZQO-D,CZQO-F</ResponsibleSectors>
 	</Sector>
 	<Sector FullName="Gander Radio (Alpha)" Frequency="131.575" Callsign="CZQO_A_CTR" Name="CZQO-A">
-		<Volumes>CZQO Main, CZQO A, CZQO B, CZQO C, CZQO D, CZQO F</Volumes>
+		<Volumes>CZQO A</Volumes>
 	</Sector>
 	<Sector FullName="Gander Radio (Bravo)" Frequency="131.675" Callsign="CZQO_B_CTR" Name="CZQO-B">
-		<Volumes>CZQO Main, CZQO A, CZQO B, CZQO C, CZQO D, CZQO F</Volumes>
+		<Volumes>CZQO B</Volumes>
 	</Sector>
 	<Sector FullName="Gander Radio (Charlie)" Frequency="131.775" Callsign="CZQO_C_CTR" Name="CZQO-C">
-		<Volumes>CZQO Main, CZQO A, CZQO B, CZQO C, CZQO D, CZQO F</Volumes>
+		<Volumes>CZQO C</Volumes>
 	</Sector>
 	<Sector FullName="Gander Radio (Delta)" Frequency="131.875" Callsign="CZQO_D_CTR" Name="CZQO-D">
-		<Volumes>CZQO Main, CZQO A, CZQO B, CZQO C, CZQO D, CZQO F</Volumes>
+		<Volumes>CZQO D</Volumes>
 	</Sector>
 	<Sector FullName="Gander Radio (Foxtrot)" Frequency="131.975" Callsign="CZQO_F_CTR" Name="CZQO-F">
-		<Volumes>CZQO Main, CZQO A, CZQO B, CZQO C, CZQO D, CZQO F</Volumes>
+		<Volumes>CZQO F</Volumes>
 	</Sector>
 	<Sector FullName="Shanwick Radio" Frequency="131.800" Callsign="EGGX_CTR" Name="EGGX">
-		<Volumes>EGGX Main, EGGX A, EGGX B, EGGX C, EGGX D, EGGX F</Volumes>
+		<Volumes>EGGX Main</Volumes>
+		<ResponsibleSectors>EGGX-A, EGGX-B, EGGX-C, EGGX-D, EGGX-F</ResponsibleSectors>
 	</Sector>
 	<Sector FullName="Shanwick Radio (Alpha)" Frequency="131.450" Callsign="EGGX_A_CTR" Name="EGGX-A">
-		<Volumes>EGGX Main, EGGX A, EGGX B, EGGX C, EGGX D, EGGX F</Volumes>
+		<Volumes>EGGX A</Volumes>
 	</Sector>
 	<Sector FullName="Shanwick Radio (Bravo)" Frequency="131.550" Callsign="EGGX_B_CTR" Name="EGGX-B">
-		<Volumes>EGGX Main, EGGX A, EGGX B, EGGX C, EGGX D, EGGX F</Volumes>
+		<Volumes>EGGX B</Volumes>
 	</Sector>
 	<Sector FullName="Shanwick Radio (Charlie)" Frequency="131.650" Callsign="EGGX_C_CTR" Name="EGGX-C">
-		<Volumes>EGGX Main, EGGX A, EGGX B, EGGX C, EGGX D, EGGX F</Volumes>
+		<Volumes>EGGX C</Volumes>
 	</Sector>
 	<Sector FullName="Shanwick Radio (Delta)" Frequency="131.750" Callsign="EGGX_D_CTR" Name="EGGX-D">
-		<Volumes>EGGX Main, EGGX A, EGGX B, EGGX C, EGGX D, EGGX F</Volumes>
+		<Volumes>EGGX D</Volumes>
 	</Sector>
-	<Sector FullName="Shanwick Radio (Foxtrot)" Frequency="131.850" Callsign="EGGX_F_CTR" Name="EGGX_F">
-		<Volumes>EGGX Main, EGGX A, EGGX B, EGGX C, EGGX D, EGGX F</Volumes>
-	</Sector>
-	<Sector FullName="Bandox" Frequency="131.900" Callsign="NAT_FSS" Name="NAT">
-		<Volumes>CZQO Main, CZQO A, CZQO B, CZQO C, CZQO D, CZQO F,EGGX Main, EGGX A, EGGX B, EGGX C, EGGX D, EGGX F</Volumes>
+	<Sector FullName="Shanwick Radio (Foxtrot)" Frequency="131.850" Callsign="EGGX_F_CTR" Name="EGGX-F">
+		<Volumes>EGGX F</Volumes>
 	</Sector>
 </Sectors>
