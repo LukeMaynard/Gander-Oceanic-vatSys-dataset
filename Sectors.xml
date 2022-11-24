@@ -2,11 +2,11 @@
 <Sectors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<Sector FullName="Bandox" Frequency="131.900" Callsign="NAT_FSS" Name="NAT">
 		<Volumes>CZQO Main,EGGX Main</Volumes>
-		<ResponsibleSectors>CZQO,CZQO-A, CZQO-B, CZQO-C, CZQO-D, CZQO-F, EGGX, EGGX-A, EGGX-B, EGGX-C, EGGX-D, EGGX-F</ResponsibleSectors>
+		<ResponsibleSectors>CZQO,CZQO-A, CZQO-B, CZQO-C, CZQO-D, CZQO-F, EGGX, EGGX-A, EGGX-B, EGGX-C, EGGX-D, EGGX-F, NUUK</ResponsibleSectors>
 	</Sector>
 	<Sector FullName="Gander Radio" Frequency="131.700" Callsign="CZQO_CTR" Name="CZQO">
 		<Volumes>CZQO Main</Volumes>
-		<ResponsibleSectors>CZQO-A,CZQO-B,CZQO-C,CZQO-D,CZQO-F</ResponsibleSectors>
+		<ResponsibleSectors>CZQO-A,CZQO-B,CZQO-C,CZQO-D,CZQO-F, NUUK</ResponsibleSectors>
 	</Sector>
 	<Sector FullName="Gander Radio (Alpha)" Frequency="131.575" Callsign="CZQO_A_CTR" Name="CZQO-A">
 		<Volumes>CZQO A</Volumes>

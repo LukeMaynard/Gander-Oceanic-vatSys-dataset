@@ -30,7 +30,7 @@
 	<Line Width="0.6" Name="UN734">UMOXA.UN734.UMLER</Line>
 	<Line Width="0.6" Name="UN470">SEPAL.UN470.LAPEX</Line>
 	<Line Width="0.6" Name="UN536">TIVLU.UN536.BUNAV</Line>
-	<Line Width="0.6" Name="UN460">RIVAK.UN460.SIVIR</Line>
+	<Line Width="0.6" Name="UN460">RIVAK.UN4SIVIR</Line>
 	<Symbol Type="SolidSquare">
 		<Point>REGHI</Point>
 		<Point>ETIKI</Point>
@@ -72,6 +72,122 @@
 		<Point>BUNAV</Point>
 		<Point>RIVAK</Point>
 		<Point>SIVIR</Point>
+		<Point>AVPUT</Point>
+		<Point>MUSVA</Point>
+		<Point>KAGLY</Point>
+		<Point>BERUS</Point>
+		<Point>IKMAN</Point>
+		<Point>GRIBS</Point>
+		<Point>MIBNO</Point>
+		<Point>PEPKI</Point>
+		<Point>MOATT</Point>
+		<Point>PRAWN</Point>
+		<Point>PORGY</Point>
+		<Point>HOIST</Point>
+		<Point>JANJO</Point>
+		<Point>SCROD</Point>
+		<Point>ALLRY</Point>
+		<Point>ELSIR</Point>
+		<Point>JOOPY</Point>
+		<Point>NICSO</Point>
+		<Point>PORTI</Point>
+		<Point>SUPRY</Point>
+		<Point>RAFIN</Point>
+		<Point>BOBTU</Point>
+		<Point>KENKI</Point>
+		<Point>EPMAN</Point>
+		<Point>RATSU</Point>
+		<Point>ATSIX</Point>
+		<Point>BALIX</Point>
+		<Point>ERAKA</Point>
+		<Point>GOMUP</Point>
+		<Point>MIMKU</Point>
+		<Point>NIBOG</Point>
+		<Point>SUNOT</Point>
+		<Point>PIKIL</Point>
+		<Point>RESNO</Point>
+		<Point>DOGAL</Point>
+		<Point>MALOT</Point>
+		<Point>LIMRI</Point>
+		<Point>DINIM</Point>
+		<Point>SOMAX</Point>
+		<Point>BEDRA</Point>
+		<Point>DIXIS</Point>
+		<Point>PASAS</Point>
+		<Point>5550N</Point>
+		<Point>6050N</Point>
+		<Point>4540N</Point>
+		<Point>5040N</Point>
+		<Point>5540N</Point>
+		<Point>6040N</Point>
+		<Point>4530N</Point>
+		<Point>5030N</Point>
+		<Point>5530N</Point>
+		<Point>6030N</Point>
+		<Point>4520N</Point>
+		<Point>5020N</Point>
+		<Point>5520N</Point>
+		<Point>6020N</Point>
 </Label>
+</Map>
+	<Map Type="System" Name="FIXES" Priority="1" Center="+54.000-30.000">
+	<Symbol Type="HollowTriangle">
+		<Point>AVPUT</Point>
+		<Point>MUSVA</Point>
+		<Point>KAGLY</Point>
+		<Point>BERUS</Point>
+		<Point>IKMAN</Point>
+		<Point>GRIBS</Point>
+		<Point>MIBNO</Point>
+		<Point>PEPKI</Point>
+		<Point>MOATT</Point>
+		<Point>PRAWN</Point>
+		<Point>PORGY</Point>
+		<Point>HOIST</Point>
+		<Point>JANJO</Point>
+		<Point>SCROD</Point>
+		<Point>ALLRY</Point>
+		<Point>ELSIR</Point>
+		<Point>JOOPY</Point>
+		<Point>NICSO</Point>
+		<Point>PORTI</Point>
+		<Point>SUPRY</Point>
+		<Point>RAFIN</Point>
+		<Point>BOBTU</Point>
+		<Point>KENKI</Point>
+		<Point>EPMAN</Point>
+		<Point>RATSU</Point>
+		<Point>ATSIX</Point>
+		<Point>BALIX</Point>
+		<Point>ERAKA</Point>
+		<Point>GOMUP</Point>
+		<Point>MIMKU</Point>
+		<Point>NIBOG</Point>
+		<Point>SUNOT</Point>
+		<Point>PIKIL</Point>
+		<Point>RESNO</Point>
+		<Point>DOGAL</Point>
+		<Point>MALOT</Point>
+		<Point>LIMRI</Point>
+		<Point>DINIM</Point>
+		<Point>SOMAX</Point>
+		<Point>BEDRA</Point>
+		<Point>DIXIS</Point>
+		<Point>PASAS</Point>
+		<Point>5550N</Point>
+		<Point>6050N</Point>
+		<Point>4540N</Point>
+		<Point>5040N</Point>
+		<Point>5540N</Point>
+		<Point>6040N</Point>
+		<Point>4530N</Point>
+		<Point>5030N</Point>
+		<Point>5530N</Point>
+		<Point>6030N</Point>
+		<Point>4520N</Point>
+		<Point>5020N</Point>
+		<Point>5520N</Point>
+		<Point>6020N</Point>
+	</Symbol>
 </Map>
 </Maps>
