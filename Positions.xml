@@ -1,10 +1,44 @@
 <?xml version="1.0"?>
 <Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Group Name="CZQO">
-	<Position Name="Gander" Type="ASD" DefaultCenter="+54.000000-030.000000" DefaultRange="6500">
-		<Sectors>  
-		 <Sector FullName="CZQO" Frequency="131.700" Callsign="CZQO_CTR" />
+	<Position Name="Bandbox" Type="ASD" DefaultCenter="+54.000000-030.000000" DefaultRange="4500" VisibilityRange="600">
+		<Sectors>
+			<Sector Name="NAT" />
 		</Sectors>
+		<Maps>
+			<Map Name="FIR_BDRY" />
+			<Map Name="Coastlines" />
+			<Map Name="ALL_PTS" />
+			<Map Name="ALL_SECTORS" />
+			<Map Name="Fixes" />
+			<Map Name="TANGO_RTS" />
+		</Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+	  <CFL QuickLevel="31000" />
+      <ArrivalLists />
+      <ControllerInfo>
+        <Line>Gander/Shanwick Radio | CPDLC available through text</Line>
+        <Line>Oceanic Report Tool - vats.im/czqo/pos-rep</Line>
+        <Line>Oceanic Clearance - nattrack.net</Line>
+      </ControllerInfo>
+    </Position>		
+	
+  <Group Name="Gander Radio">
+	<Position Name="Gander" Type="ASD" DefaultCenter="+54.000000-030.000000" DefaultRange="4500" VisibilityRange="600">
+		<Sectors>  
+		 <Sector Name="CZQO" />
+		</Sectors>
+		<Maps>
+			<Map Name="FIR_BDRY" />
+			<Map Name="Coastlines" />
+			<Map Name="ALL_PTS" />
+			<Map Name="ALL_SECTORS" />
+			<Map Name="Fixes" />
+			<Map Name="TANGO_RTS" />
+		</Maps>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />
         <Window Type="State" State="Announced" Visible="true" />
@@ -19,9 +53,9 @@
       </ControllerInfo>
     </Position>
 	
-	<Position Name="Gander Alpha" Type="ASD" DefaultCenter="+54.000000-030.000000" DefaultRange="6500">
+	<Position Name="Gander Alpha" Type="ASD" DefaultCenter="+54.000000-030.000000" DefaultRange="4500" VisibilityRange="600">
 		<Sectors>  
-		 <Sector FullName="CZQO_A" Frequency="131.575" Callsign="CZQO_A_CTR" />
+		 <Sector Name="CZQO_A" Frequency="131.575" Callsign="CZQO_A_CTR" />
 		</Sectors>
       <Strips Mode="State" Sort="Time">
         <Window Type="State" State="Jurisdiction" Visible="true" />

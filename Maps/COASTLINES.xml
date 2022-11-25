@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Maps>
-<Map Type="System" Name="GEOGRAPHY" Priority="2">
+<Map Type="System" Name="Coastlines" Priority="2">
 <Line Name="Canada">
 +61.128000-070.986028/
 +61.002389-070.724861/

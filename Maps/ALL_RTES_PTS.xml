@@ -44,7 +44,7 @@
 		<Point>SIVIR</Point>
 	</Symbol>
   </Map>
-<Map Type="System" Name="ALL_PTS" Priority="1" Center="+54.000-30.000">
+<Map Type="System" Name="ALL_PTS" Priority="1" Center="+54.000-30.000" CustomColourName="ZQOGreen">
 <Label>
 		<Point>ADVANT</Point>
 		<Point>GELPO</Point>
